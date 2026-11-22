@@ -265,3 +265,6 @@ html{scroll-padding-top:82px}.nav.wrap{display:flex;align-items:center;justify-c
 .work-examples strong { font-weight: 600; }
 #ak-distributors, #newton-billing { scroll-margin-top: 72px; }
 
+
+.nav .nav-contact { display: inline-flex !important; align-items: center; gap: 7px; color: var(--olive); }
+.contact-envelope { width: 15px; height: 13px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.3; }
