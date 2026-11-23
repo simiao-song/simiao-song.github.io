@@ -14,16 +14,16 @@ const projects = {
   },
   sync: {
     presentation: 'assets/asana-adaptive-sync-presentation.pdf',
-    category: 'ACADEMIC CONCEPT / ASANA ADAPTIVE SYNC',
+    category: 'HACKATHON FINAL PITCH / ASANA ADAPTIVE SYNC',
     title: 'From Slack messages to Asana tasks.',
-    intro: 'Asana Adaptive Sync is our academic concept for turning decisions made in Slack into tasks and updates in Asana.',
+    intro: 'Asana Adaptive Sync was our hackathon proposal for turning decisions made in Slack into tasks and updates in Asana.',
     sections: [
       ['The question', 'A team agrees on a task or changes a deadline in Slack, but nobody updates Asana. The project board then shows an old version of the plan.'],
       ['My contribution', 'I co-developed the concept with my team. We proposed extracting tasks, owners, deadlines, and blockers from conversations rather than asking someone to enter the same information again.'],
       ['The approach', 'The concept connects Slack conversations to structured Asana work through three proposed capabilities: generating projects from tasks and deadlines in chat, confirming task updates in real time, and surfacing risk patterns such as unresolved blockers or repeated deadline shifts.'],
       ['Where the project stands', 'The materials describe the proposed workflow and its three capabilities. We have not measured time savings or deployed a production integration.']
     ], metric: 'Slack → Asana', metricLabel: 'Project setup · Task updates · Risk alerts',
-    note: 'Academic concept, not a launched product or an official Asana feature. No measured implementation outcomes are claimed.'
+    note: 'Our team was selected for the hackathon challenge and delivered this final presentation directly to Asana.'
   },
   operations: {
     category: 'PROFESSIONAL EXPERIENCE / NEWTON OIL COMPANY',
